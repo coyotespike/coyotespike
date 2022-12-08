@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @coyotespike
-- 🌱 I’m currently learning Solana and more Etherereum stuff :)
-- 💞️ I’m looking to collaborate on ... making this profile better lol
+- 🌱 I’m currently learning Solana, more Solidity dev, and integrating that with LangChain
 - 📫 You can reach me via Twitter at the same name
 
 <!---
