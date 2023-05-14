@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coyotespike
-- 🌱 I’m currently learning Solana, more Solidity dev, and integrating that with LangChain
+- 🌱 I’m currently building ML infra, for example [GradientFlow](gradientflow.ai).
 - 📫 You can reach me via Twitter at the same name
 
 <!---
