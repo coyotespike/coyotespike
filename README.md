@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coyotespike
-- 🌱 I’m currently building ML infra, for example [GradientFlow](gradientflow.ai).
+- 🌱 I’m currently building ML infra, e.g. [GradientFlow](https://www.gradientflow.ai).
 - 📫 You can reach me via Twitter at the same name
 
 <!---
